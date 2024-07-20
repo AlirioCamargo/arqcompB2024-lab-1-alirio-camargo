@@ -22,9 +22,9 @@
   - [Responsabilidad 3]
 
 ## Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Programar **
+- **Ingles Basico **
+- **Hacer Deporte**
 
 ## Proyectos
 - **Proyecto 1**: [Simulacion De Atencion Al Cliente Del Telefico De Merida]
